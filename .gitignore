@@ -1,0 +1,8 @@
+v1_bluetooth_teleop/ros2/ros2_ws/build/
+v1_bluetooth_teleop/ros2/ros2_ws/install/
+v1_bluetooth_teleop/ros2/ros2_ws/log/
+
+# VSCode / editors
+.vscode/
+.idea/
+*.swp
